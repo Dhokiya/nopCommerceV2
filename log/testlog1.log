@@ -1,0 +1,273 @@
+2022-07-13 17:43:28,421 [main] INFO ECommerce - Url is Opened
+2022-07-13 17:43:38,558 [main] INFO ECommerce - usename is applied
+2022-07-13 17:43:38,614 [main] INFO ECommerce - password is applied
+2022-07-13 19:50:59,836 [main] INFO ECommerce - Url is Opened
+2022-07-13 19:51:10,019 [main] INFO ECommerce - usename is applied
+2022-07-13 19:51:59,244 [main] INFO ECommerce - Url is Opened
+2022-07-13 19:52:09,405 [main] INFO ECommerce - usename is applied
+2022-07-13 19:52:09,506 [main] INFO ECommerce - password is applied
+2022-07-13 19:53:03,141 [main] INFO ECommerce - Url is Opened
+2022-07-13 19:53:13,341 [main] INFO ECommerce - usename is applied
+2022-07-13 19:53:13,457 [main] INFO ECommerce - password is applied
+2022-07-13 19:54:57,516 [main] INFO ECommerce - Url is Opened
+2022-07-13 19:55:07,699 [main] INFO ECommerce - usename is applied
+2022-07-13 19:55:07,823 [main] INFO ECommerce - password is applied
+2022-07-13 19:55:15,360 [main] INFO ECommerce - Logout
+2022-07-13 20:01:36,726 [main] INFO ECommerce - Url is Opened
+2022-07-13 20:01:46,898 [main] INFO ECommerce - usename is applied
+2022-07-13 20:01:46,997 [main] INFO ECommerce - password is applied
+2022-07-13 20:01:54,764 [main] INFO ECommerce - Logout
+2022-07-14 14:17:30,507 [main] INFO ECommerce - Url is Opened
+2022-07-14 14:17:40,657 [main] INFO ECommerce - usename is applied
+2022-07-14 14:17:40,706 [main] INFO ECommerce - password is applied
+2022-07-14 14:17:48,979 [main] INFO ECommerce - Logout
+2022-07-14 14:18:52,715 [TestNG-tests-1] INFO ECommerce - Url is Opened
+2022-07-14 14:19:02,834 [TestNG-tests-1] INFO ECommerce - usename is applied
+2022-07-14 14:19:02,891 [TestNG-tests-1] INFO ECommerce - password is applied
+2022-07-14 14:19:10,083 [TestNG-tests-1] INFO ECommerce - Logout
+2022-07-14 14:20:25,491 [TestNG-tests-1] INFO ECommerce - Url is Opened
+2022-07-14 14:20:28,220 [TestNG-tests-2] INFO ECommerce - Url is Opened
+2022-07-14 14:20:35,611 [TestNG-tests-1] INFO ECommerce - usename is applied
+2022-07-14 14:20:35,666 [TestNG-tests-1] INFO ECommerce - password is applied
+2022-07-14 14:20:38,267 [TestNG-tests-2] INFO ECommerce - usename is applied
+2022-07-14 14:20:38,298 [TestNG-tests-2] INFO ECommerce - password is applied
+2022-07-14 14:20:43,927 [TestNG-tests-1] INFO ECommerce - Logout
+2022-07-14 14:26:09,332 [main] INFO ECommerce - Url is Opened
+2022-07-14 14:26:19,476 [main] INFO ECommerce - usename is applied
+2022-07-14 14:26:19,537 [main] INFO ECommerce - password is applied
+2022-07-14 14:26:26,696 [main] INFO ECommerce - Logout
+2022-07-14 14:26:30,437 [main] INFO ECommerce - Url is Opened
+2022-07-14 14:26:40,507 [main] INFO ECommerce - usename is applied
+2022-07-14 14:26:40,529 [main] INFO ECommerce - password is applied
+2022-07-14 14:26:47,808 [main] INFO ECommerce - Logout
+2022-07-14 16:20:35,313 [main] INFO ECommerce - Url is Opened
+2022-07-14 16:20:45,478 [main] INFO ECommerce - usename is applied
+2022-07-14 16:20:45,592 [main] INFO ECommerce - password is applied
+2022-07-14 16:20:53,353 [main] INFO ECommerce - Logout
+2022-07-14 16:21:59,147 [main] INFO ECommerce - Url is Opened
+2022-07-14 16:22:09,340 [main] INFO ECommerce - usename is applied
+2022-07-14 16:22:09,450 [main] INFO ECommerce - password is applied
+2022-07-14 16:22:16,513 [main] INFO ECommerce - Logout
+2022-07-14 16:24:13,946 [main] INFO ECommerce - Url is Opened
+2022-07-14 16:24:24,126 [main] INFO ECommerce - usename is applied
+2022-07-14 16:24:24,234 [main] INFO ECommerce - password is applied
+2022-07-14 16:24:31,897 [main] INFO ECommerce - Logout
+2022-07-14 16:25:18,008 [main] INFO ECommerce - Url is Opened
+2022-07-14 16:25:28,189 [main] INFO ECommerce - usename is applied
+2022-07-14 16:25:28,299 [main] INFO ECommerce - password is applied
+2022-07-14 16:25:35,828 [main] INFO ECommerce - Logout
+2022-07-14 16:27:12,800 [main] INFO ECommerce - Url is Opened
+2022-07-14 16:27:22,980 [main] INFO ECommerce - usename is applied
+2022-07-14 16:27:23,101 [main] INFO ECommerce - password is applied
+2022-07-14 16:27:30,665 [main] INFO ECommerce - Logout
+2022-07-14 17:12:10,594 [main] INFO ECommerce - Url is Opened
+2022-07-14 17:12:20,760 [main] INFO ECommerce - usename is applied
+2022-07-14 17:12:20,854 [main] INFO ECommerce - password is applied
+2022-07-14 17:12:29,049 [main] INFO ECommerce - Logout
+2022-07-14 17:18:25,527 [main] INFO ECommerce - Url is Opened
+2022-07-14 17:18:35,689 [main] INFO ECommerce - usename is applied
+2022-07-14 17:18:35,790 [main] INFO ECommerce - password is applied
+2022-07-14 17:20:59,516 [main] INFO ECommerce - Url is Opened
+2022-07-14 17:21:09,681 [main] INFO ECommerce - usename is applied
+2022-07-14 17:21:09,768 [main] INFO ECommerce - password is applied
+2022-07-14 17:34:36,171 [main] INFO ECommerce - Url is Opened
+2022-07-14 17:34:46,325 [main] INFO ECommerce - usename is applied
+2022-07-14 17:34:46,437 [main] INFO ECommerce - password is applied
+2022-07-14 17:34:53,076 [main] INFO ECommerce - Login Failed
+2022-07-14 17:36:02,128 [main] INFO ECommerce - Url is Opened
+2022-07-14 17:36:12,306 [main] INFO ECommerce - usename is applied
+2022-07-14 17:36:12,401 [main] INFO ECommerce - password is applied
+2022-07-14 17:36:20,509 [main] INFO ECommerce - Logout
+2022-07-14 17:38:34,414 [main] INFO ECommerce - Url is Opened
+2022-07-14 17:38:44,578 [main] INFO ECommerce - usename is applied
+2022-07-14 17:38:44,686 [main] INFO ECommerce - password is applied
+2022-07-14 17:38:52,078 [main] INFO ECommerce - Login Failed
+2022-07-14 17:43:11,410 [main] INFO ECommerce - Url is Opened
+2022-07-14 17:43:21,519 [main] INFO ECommerce - usename is applied
+2022-07-14 17:43:21,584 [main] INFO ECommerce - password is applied
+2022-07-14 17:43:29,397 [main] INFO ECommerce - Login Failed
+2022-07-14 17:47:08,410 [main] INFO ECommerce - Url is Opened
+2022-07-14 17:47:18,575 [main] INFO ECommerce - usename is applied
+2022-07-14 17:47:18,666 [main] INFO ECommerce - password is applied
+2022-07-14 17:47:24,352 [main] INFO ECommerce - Login Failed
+2022-07-14 17:52:31,915 [main] INFO ECommerce - Url is Opened
+2022-07-14 17:52:42,099 [main] INFO ECommerce - usename is applied
+2022-07-14 17:52:42,205 [main] INFO ECommerce - password is applied
+2022-07-14 17:52:49,846 [main] INFO ECommerce - Login Failed
+2022-07-14 17:55:06,767 [main] INFO ECommerce - Url is Opened
+2022-07-14 17:55:16,938 [main] INFO ECommerce - usename is applied
+2022-07-14 17:55:17,023 [main] INFO ECommerce - password is applied
+2022-07-14 17:55:24,736 [main] INFO ECommerce - Login Failed
+2022-07-14 19:01:57,729 [main] INFO ECommerce - Url is Opened
+2022-07-14 19:02:07,945 [main] INFO ECommerce - usename is applied
+2022-07-14 19:02:08,105 [main] INFO ECommerce - password is applied
+2022-07-14 19:02:13,423 [main] INFO ECommerce - Login Failed
+2022-07-14 19:08:15,344 [main] INFO ECommerce - Url is Opened
+2022-07-14 19:08:25,525 [main] INFO ECommerce - usename is applied
+2022-07-14 19:08:25,619 [main] INFO ECommerce - password is applied
+2022-07-14 19:08:33,901 [main] INFO ECommerce - Logout
+2022-07-14 19:12:39,140 [main] INFO ECommerce - Url is Opened
+2022-07-14 19:12:52,374 [main] INFO ECommerce - usename is applied
+2022-07-14 19:12:55,522 [main] INFO ECommerce - password is applied
+2022-07-14 19:13:03,378 [main] INFO ECommerce - Logout
+2022-07-14 19:19:02,483 [main] INFO ECommerce - Url is Opened
+2022-07-14 19:19:04,637 [main] INFO ECommerce - usename is applied
+2022-07-14 19:19:07,785 [main] INFO ECommerce - password is applied
+2022-07-14 19:19:15,559 [main] INFO ECommerce - Logout
+2022-07-14 19:20:07,951 [main] INFO ECommerce - Url is Opened
+2022-07-14 19:20:10,163 [main] INFO ECommerce - usename is applied
+2022-07-14 19:20:10,232 [main] INFO ECommerce - password is applied
+2022-07-14 19:20:18,175 [main] INFO ECommerce - Logout
+2022-07-15 12:44:26,253 [main] INFO ECommerce - Url is Opened
+2022-07-15 12:44:26,426 [main] INFO ECommerce - Url is Opened
+2022-07-15 12:44:28,567 [main] INFO ECommerce - usename is applied
+2022-07-15 12:44:28,636 [main] INFO ECommerce - password is applied
+2022-07-15 12:44:28,733 [main] INFO ECommerce - usename is applied
+2022-07-15 12:44:28,814 [main] INFO ECommerce - password is applied
+2022-07-15 12:44:36,692 [main] INFO ECommerce - Logout
+2022-07-15 12:44:36,947 [main] INFO ECommerce - Logout
+2022-07-15 12:48:33,158 [main] INFO ECommerce - Url is Opened
+2022-07-15 12:48:35,349 [main] INFO ECommerce - usename is applied
+2022-07-15 12:48:35,403 [main] INFO ECommerce - password is applied
+2022-07-15 12:48:42,821 [main] INFO ECommerce - Logout
+2022-07-15 12:51:15,177 [main] INFO ECommerce - Url is Opened
+2022-07-15 12:51:17,355 [main] INFO ECommerce - usename is applied
+2022-07-15 12:51:17,395 [main] INFO ECommerce - password is applied
+2022-07-15 12:51:24,837 [main] INFO ECommerce - Logout
+2022-07-15 12:52:48,034 [main] INFO ECommerce - Url is Opened
+2022-07-15 12:52:50,193 [main] INFO ECommerce - usename is applied
+2022-07-15 12:52:50,230 [main] INFO ECommerce - password is applied
+2022-07-15 12:52:57,727 [main] INFO ECommerce - Logout
+2022-07-15 13:07:48,419 [main] INFO ECommerce - Url is Opened
+2022-07-15 13:07:50,593 [main] INFO ECommerce - usename is applied
+2022-07-15 13:07:50,628 [main] INFO ECommerce - password is applied
+2022-07-15 13:07:54,591 [main] INFO ECommerce - Logout
+2022-07-15 13:07:55,053 [main] INFO ECommerce - Url is Opened
+2022-07-15 13:07:57,184 [main] INFO ECommerce - usename is applied
+2022-07-15 13:07:57,217 [main] INFO ECommerce - password is applied
+2022-07-15 13:07:59,460 [main] INFO ECommerce - Login Failed
+2022-07-15 13:07:59,958 [main] INFO ECommerce - Url is Opened
+2022-07-15 13:08:02,111 [main] INFO ECommerce - usename is applied
+2022-07-15 13:08:02,181 [main] INFO ECommerce - password is applied
+2022-07-15 13:08:04,451 [main] INFO ECommerce - Login Failed
+2022-07-15 13:08:04,916 [main] INFO ECommerce - Url is Opened
+2022-07-15 13:08:07,085 [main] INFO ECommerce - usename is applied
+2022-07-15 13:08:07,122 [main] INFO ECommerce - password is applied
+2022-07-15 13:08:09,351 [main] INFO ECommerce - Login Failed
+2022-07-15 13:17:08,220 [main] INFO ECommerce - Url is Opened
+2022-07-15 13:17:10,379 [main] INFO ECommerce - usename is applied
+2022-07-15 13:17:10,415 [main] INFO ECommerce - password is applied
+2022-07-15 13:17:17,865 [main] INFO ECommerce - Logout
+2022-07-15 13:17:20,723 [main] INFO ECommerce - Url is Opened
+2022-07-15 13:17:22,869 [main] INFO ECommerce - usename is applied
+2022-07-15 13:17:22,907 [main] INFO ECommerce - password is applied
+2022-07-15 13:17:27,283 [main] INFO ECommerce - Logout
+2022-07-15 13:17:27,755 [main] INFO ECommerce - Url is Opened
+2022-07-15 13:17:29,877 [main] INFO ECommerce - usename is applied
+2022-07-15 13:17:29,913 [main] INFO ECommerce - password is applied
+2022-07-15 13:17:32,138 [main] INFO ECommerce - Login Failed
+2022-07-15 13:17:32,599 [main] INFO ECommerce - Url is Opened
+2022-07-15 13:17:34,707 [main] INFO ECommerce - usename is applied
+2022-07-15 13:17:34,749 [main] INFO ECommerce - password is applied
+2022-07-15 13:17:36,998 [main] INFO ECommerce - Login Failed
+2022-07-15 13:17:37,487 [main] INFO ECommerce - Url is Opened
+2022-07-15 13:17:39,631 [main] INFO ECommerce - usename is applied
+2022-07-15 13:17:39,663 [main] INFO ECommerce - password is applied
+2022-07-15 13:17:41,906 [main] INFO ECommerce - Login Failed
+2022-07-15 14:05:13,185 [main] INFO ECommerce - Url is Opened
+2022-07-15 14:05:15,450 [main] INFO ECommerce - usename is applied
+2022-07-15 14:05:15,557 [main] INFO ECommerce - password is applied
+2022-07-15 14:05:23,503 [main] INFO ECommerce - Logout
+2022-07-15 14:05:26,688 [main] INFO ECommerce - Url is Opened
+2022-07-15 14:05:28,884 [main] INFO ECommerce - usename is applied
+2022-07-15 14:05:28,951 [main] INFO ECommerce - password is applied
+2022-07-15 14:05:33,512 [main] INFO ECommerce - Logout
+2022-07-15 14:05:33,985 [main] INFO ECommerce - Url is Opened
+2022-07-15 14:05:36,098 [main] INFO ECommerce - usename is applied
+2022-07-15 14:05:36,135 [main] INFO ECommerce - password is applied
+2022-07-15 14:05:38,492 [main] INFO ECommerce - Login Failed
+2022-07-15 14:05:38,959 [main] INFO ECommerce - Url is Opened
+2022-07-15 14:05:41,116 [main] INFO ECommerce - usename is applied
+2022-07-15 14:05:41,182 [main] INFO ECommerce - password is applied
+2022-07-15 14:05:43,715 [main] INFO ECommerce - Login Failed
+2022-07-15 14:05:44,361 [main] INFO ECommerce - Url is Opened
+2022-07-15 14:05:46,545 [main] INFO ECommerce - usename is applied
+2022-07-15 14:05:46,600 [main] INFO ECommerce - password is applied
+2022-07-15 14:05:49,150 [main] INFO ECommerce - Login Failed
+2022-07-15 14:07:31,637 [main] INFO ECommerce - Url is Opened
+2022-07-15 14:07:33,838 [main] INFO ECommerce - usename is applied
+2022-07-15 14:07:33,898 [main] INFO ECommerce - password is applied
+2022-07-15 14:07:41,475 [main] INFO ECommerce - Login Failed
+2022-07-15 14:07:45,380 [main] INFO ECommerce - Url is Opened
+2022-07-15 14:07:47,559 [main] INFO ECommerce - usename is applied
+2022-07-15 14:07:47,625 [main] INFO ECommerce - password is applied
+2022-07-15 14:07:52,384 [main] INFO ECommerce - Logout
+2022-07-15 14:07:53,049 [main] INFO ECommerce - Url is Opened
+2022-07-15 14:07:55,272 [main] INFO ECommerce - usename is applied
+2022-07-15 14:07:55,342 [main] INFO ECommerce - password is applied
+2022-07-15 14:07:57,817 [main] INFO ECommerce - Login Failed
+2022-07-15 14:07:58,439 [main] INFO ECommerce - Url is Opened
+2022-07-15 14:08:00,638 [main] INFO ECommerce - usename is applied
+2022-07-15 14:08:00,703 [main] INFO ECommerce - password is applied
+2022-07-15 14:08:03,166 [main] INFO ECommerce - Login Failed
+2022-07-15 14:08:03,914 [main] INFO ECommerce - Url is Opened
+2022-07-15 14:08:06,141 [main] INFO ECommerce - usename is applied
+2022-07-15 14:08:06,217 [main] INFO ECommerce - password is applied
+2022-07-15 14:08:08,683 [main] INFO ECommerce - Login Failed
+2022-07-15 14:11:02,056 [main] INFO ECommerce - Url is Opened
+2022-07-15 14:11:04,258 [main] INFO ECommerce - usename is applied
+2022-07-15 14:11:04,324 [main] INFO ECommerce - password is applied
+2022-07-15 14:11:12,252 [main] INFO ECommerce - Logout
+2022-07-15 14:11:16,144 [main] INFO ECommerce - Url is Opened
+2022-07-15 14:11:18,327 [main] INFO ECommerce - usename is applied
+2022-07-15 14:11:18,387 [main] INFO ECommerce - password is applied
+2022-07-15 14:11:23,210 [main] INFO ECommerce - Logout
+2022-07-15 14:11:23,849 [main] INFO ECommerce - Url is Opened
+2022-07-15 14:11:26,067 [main] INFO ECommerce - usename is applied
+2022-07-15 14:11:26,134 [main] INFO ECommerce - password is applied
+2022-07-15 14:11:28,730 [main] INFO ECommerce - Login Failed
+2022-07-15 14:11:29,245 [main] INFO ECommerce - Url is Opened
+2022-07-15 14:11:31,444 [main] INFO ECommerce - usename is applied
+2022-07-15 14:11:31,523 [main] INFO ECommerce - password is applied
+2022-07-15 14:11:34,238 [main] INFO ECommerce - Login Failed
+2022-07-15 14:11:34,906 [main] INFO ECommerce - Url is Opened
+2022-07-15 14:11:37,110 [main] INFO ECommerce - usename is applied
+2022-07-15 14:11:37,185 [main] INFO ECommerce - password is applied
+2022-07-15 14:11:39,805 [main] INFO ECommerce - Login Failed
+2022-07-18 10:52:40,381 [main] INFO ECommerce - Url is Opened
+2022-07-18 10:52:42,580 [main] INFO ECommerce - usename is applied
+2022-07-18 10:52:42,630 [main] INFO ECommerce - password is applied
+2022-07-18 10:52:51,535 [main] INFO ECommerce - Logout
+2022-07-18 10:54:22,078 [main] INFO ECommerce - Url is Opened
+2022-07-18 10:54:24,274 [main] INFO ECommerce - usename is applied
+2022-07-18 10:54:24,309 [main] INFO ECommerce - password is applied
+2022-07-18 10:54:31,186 [main] INFO ECommerce - Logout
+2022-07-18 10:59:31,223 [main] INFO ECommerce - Url is Opened
+2022-07-18 10:59:33,418 [main] INFO ECommerce - usename is applied
+2022-07-18 10:59:33,457 [main] INFO ECommerce - password is applied
+2022-07-18 10:59:41,343 [main] INFO ECommerce - Logout
+2022-07-18 11:02:13,414 [main] INFO ECommerce - Url is Opened
+2022-07-18 11:02:15,621 [main] INFO ECommerce - usename is applied
+2022-07-18 11:02:15,673 [main] INFO ECommerce - password is applied
+2022-07-18 11:02:23,604 [main] INFO ECommerce - Logout
+2022-07-18 11:23:19,539 [main] INFO ECommerce - Url is Opened
+2022-07-18 11:23:21,756 [main] INFO ECommerce - usename is applied
+2022-07-18 11:23:21,802 [main] INFO ECommerce - password is applied
+2022-07-18 11:23:30,047 [main] INFO ECommerce - Logout
+2022-07-18 11:48:19,083 [main] INFO ECommerce - Url is Opened
+2022-07-18 11:48:21,307 [main] INFO ECommerce - usename is applied
+2022-07-18 11:48:21,375 [main] INFO ECommerce - password is applied
+2022-07-18 11:48:29,905 [main] INFO ECommerce - Logout
+2022-07-18 11:51:40,199 [main] INFO ECommerce - Url is Opened
+2022-07-18 11:51:42,465 [main] INFO ECommerce - usename is applied
+2022-07-18 11:51:42,518 [main] INFO ECommerce - password is applied
+2022-07-18 11:51:50,920 [main] INFO ECommerce - Logout
+2022-07-18 12:04:00,576 [main] INFO ECommerce - Url is Opened
+2022-07-18 12:04:02,827 [main] INFO ECommerce - usename is applied
+2022-07-18 12:04:02,879 [main] INFO ECommerce - password is applied
+2022-07-18 12:04:11,735 [main] INFO ECommerce - Logout
+2022-07-18 19:07:17,159 [main] INFO ECommerce - Url is Opened
+2022-07-18 19:26:54,605 [main] INFO ECommerce - Url is Opened
+2022-07-18 19:26:56,804 [main] INFO ECommerce - usename is applied
+2022-07-18 19:26:56,846 [main] INFO ECommerce - password is applied
+2022-07-18 19:27:04,323 [main] INFO ECommerce - Logout
