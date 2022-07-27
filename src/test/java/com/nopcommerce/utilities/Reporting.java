@@ -39,7 +39,7 @@ public class Reporting extends TestListenerAdapter {
 		extent.attachReporter(htmlReporter);
 		extent.setSystemInfo("Host name", "localhost");
 		extent.setSystemInfo("Environemnt", "QA");
-		extent.setSystemInfo("user", "pavan");
+		extent.setSystemInfo("user", "Hardik");
 
 		htmlReporter.config().setDocumentTitle("nopCommerce Test Project"); // Tile of report
 		htmlReporter.config().setReportName("Functional Test Report"); // name of the report

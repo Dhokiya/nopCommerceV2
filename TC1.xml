@@ -11,6 +11,7 @@
 <classes>
 <class name = "com.nopcommerce.testCases.TC_LoginTest_001"/>
 <!--<class name = "com.nopcommerce.testCases.TC_LoginTest_002"/>-->
+<class name = "com.nopcommerce.testCases.TC_AddCustomerTest_003"/>
 
 
 </classes>

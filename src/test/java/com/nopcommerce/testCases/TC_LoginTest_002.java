@@ -2,7 +2,7 @@ package com.nopcommerce.testCases;
 
 import java.io.IOException;
 
-import org.junit.Assert;
+import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
